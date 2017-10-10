@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\udit\.android\build-cache\52995cac38db705f57697a77b7a2689820bd2784\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0712ae9e1a478ce160e5c50eee75a18d3c40939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f969c76d24e67c7b6f6231f34b65496087d80808">
+        <dex dex="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b1e556a9a4d4dcc9886c2b9ac5149593724b733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udit\.android\build-cache\d0d7ef3b542e945064801e5f405ddb3f30919627\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17645e4b9f4eda7c1e2be9ce40f7d70614cb334c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udit\.android\build-cache\4272faccf6c52e7b1c8fc5809b7e5056b5f9daef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33035dbfd86d2debfcf1680141e8f65141d2d957\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ccbf4c44a39028ab3ac057412664369b436b2096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udit\.android\build-cache\25277e3a305b9e82895316f83898541c2ccfa07d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\udit\Desktop\MyApplication8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29614e3a19bab4df21d5dbba5feebd1d60dc3356\classes.dex" />
+    </item>
+
+</items>
